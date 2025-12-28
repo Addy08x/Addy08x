@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Adnan. I am currently working at AdvaRisk as a Data Coordinator, where I handle data validation, analysis, and performance tracking. I work closely with cross-functional teams to ensure data accuracy, identify gaps, and support decision-making through timely and structured insights. I am detail-oriented, adaptable, and comfortable working with tools like Excel, SQL, and Power BI.🔭 I’m currently working on<br>
+My name is Adnan. I am currently working at AdvaRisk as a Data Coordinator, where I handle data validation, analysis, and performance tracking. I work closely with cross-functional teams to ensure data accuracy, identify gaps, and support decision-making through timely and structured insights. I am detail-oriented, adaptable, and comfortable working with tools like Excel, SQL, and Power BI.
 
 
 ## 🌐 Socials:
